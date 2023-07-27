@@ -1,4 +1,3 @@
-# ChainStay-BlockchainHotelBooking
 # ChainStay- A Decentralized Hotel Booking Platform
 
 Important Steps in making the decentralized application:
