@@ -3,7 +3,7 @@
 Important Steps in making the decentralized application:
 
 1. npx create-react-app trialapp
-will create app in user/dell/trialapp
+will create app in user/asus/trialapp
 
 
 2. Open that folder of trialapp in vs code and in their terminal type:
